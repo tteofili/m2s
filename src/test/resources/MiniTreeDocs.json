@@ -1,0 +1,1001 @@
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61e7" }, "iddocumento" : 6737921, "Pacchetti" : [], "iddoctype" : 12, "idLeaf" : 10, "idIndex" : 762, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61e8" }, "iddocumento" : 220953, "Pacchetti" : [ 177, 178, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61e9" }, "iddocumento" : 4517641, "Pacchetti" : [ 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61ea" }, "iddocumento" : 313931, "Pacchetti" : [ 110, 151, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61eb" }, "iddocumento" : 9485327, "Pacchetti" : [ 110, 146, 181, 182, 2006, 2007, 2048, 2267 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61ec" }, "iddocumento" : 9302031, "Pacchetti" : [ 108, 170, 181, 182, 2006, 2007, 2048 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61ed" }, "iddocumento" : 313658, "Pacchetti" : [ 110, 138, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61ee" }, "iddocumento" : 9485317, "Pacchetti" : [ 110, 146, 181, 182, 2006, 2007, 2048, 2267 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61ef" }, "iddocumento" : 313704, "Pacchetti" : [ 110, 148, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f0" }, "iddocumento" : 9160677, "Pacchetti" : [ 108, 170, 181, 2048 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f1" }, "iddocumento" : 4729057, "Pacchetti" : [ 177, 180, 181, 187, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f2" }, "iddocumento" : 313593, "Pacchetti" : [ 108, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f3" }, "iddocumento" : 4517193, "Pacchetti" : [ 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f4" }, "iddocumento" : 4242737, "Pacchetti" : [ 177, 180, 181, 187, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f5" }, "iddocumento" : 4290365, "Pacchetti" : [ 177, 180, 181, 187, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f6" }, "iddocumento" : 313158, "Pacchetti" : [ 110, 146, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f7" }, "iddocumento" : 9488299, "Pacchetti" : [ 110, 146, 181, 182, 2006, 2007, 2048, 2267 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f8" }, "iddocumento" : 345789, "Pacchetti" : [ 2, 16, 45, 52, 53, 55, 2046, 2147, 2248 ], "iddoctype" : 1, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61f9" }, "iddocumento" : 9715671, "Pacchetti" : [ 182, 2007 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61fa" }, "iddocumento" : 345787, "Pacchetti" : [ 2, 16, 45, 52, 53, 55, 2046 ], "iddoctype" : 1, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61fb" }, "iddocumento" : 9715667, "Pacchetti" : [ 182, 2007 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61fc" }, "iddocumento" : 2926195, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61fd" }, "iddocumento" : 4808645, "Pacchetti" : [ 177, 180, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61fe" }, "iddocumento" : 313681, "Pacchetti" : [ 108, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e61ff" }, "iddocumento" : 9482937, "Pacchetti" : [ 110, 146, 181, 2048 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6200" }, "iddocumento" : 314962, "Pacchetti" : [ 110, 135, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6201" }, "iddocumento" : 314961, "Pacchetti" : [ 110, 135, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6202" }, "iddocumento" : 313783, "Pacchetti" : [ 108, 177, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6203" }, "iddocumento" : 8333109, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6204" }, "iddocumento" : 313778, "Pacchetti" : [ 110, 157, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6205" }, "iddocumento" : 7865939, "Pacchetti" : [ 180, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6206" }, "iddocumento" : 316018, "Pacchetti" : [ 110, 150, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6207" }, "iddocumento" : 6119803, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6208" }, "iddocumento" : 314960, "Pacchetti" : [ 110, 135, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6209" }, "iddocumento" : 7988025, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 8, "idIndex" : 854, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e620a" }, "iddocumento" : 9428561, "Pacchetti" : [ 110, 163, 177, 181, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e620b" }, "iddocumento" : 316440, "Pacchetti" : [ 108, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e620c" }, "iddocumento" : 315260, "Pacchetti" : [ 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e620d" }, "iddocumento" : 1684749, "Pacchetti" : [ 180, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e620e" }, "iddocumento" : 313756, "Pacchetti" : [ 110, 158, 177, 178, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e620f" }, "iddocumento" : 8432595, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6210" }, "iddocumento" : 313108, "Pacchetti" : [ 110, 149, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6211" }, "iddocumento" : 308312, "Pacchetti" : [ 2, 16, 45, 52, 53, 55, 2046, 2248 ], "iddoctype" : 1, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6212" }, "iddocumento" : 2907899, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6213" }, "iddocumento" : 313796, "Pacchetti" : [ 108, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6214" }, "iddocumento" : 4305483, "Pacchetti" : [ 180, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6215" }, "iddocumento" : 9492735, "Pacchetti" : [ 110, 146, 181, 182, 2006, 2007, 2048, 2267 ], "iddoctype" : 3, "idLeaf" : 3, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6216" }, "iddocumento" : 4305479, "Pacchetti" : [ 180, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6217" }, "iddocumento" : 313633, "Pacchetti" : [ 110, 152, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6218" }, "iddocumento" : 1693261, "Pacchetti" : [ 179, 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 8, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6219" }, "iddocumento" : 8831143, "Pacchetti" : [ 110, 138, 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e621a" }, "iddocumento" : 313676, "Pacchetti" : [ 177, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e621b" }, "iddocumento" : 1647823, "Pacchetti" : [ 181, 182, 2048 ], "iddoctype" : 3, "idLeaf" : 4, "idIndex" : 854, "collection" : "DocType3" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e621c" }, "iddocumento" : 2907405, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 854, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e621d" }, "iddocumento" : 11488827, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e621e" }, "iddocumento" : 11410327, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e621f" }, "iddocumento" : 11488819, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6220" }, "iddocumento" : 11619333, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6221" }, "iddocumento" : 11488821, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 7, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6222" }, "iddocumento" : 11619331, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6223" }, "iddocumento" : 11619329, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6224" }, "iddocumento" : 11410319, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6225" }, "iddocumento" : 11619327, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6226" }, "iddocumento" : 11410317, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6227" }, "iddocumento" : 11619325, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6228" }, "iddocumento" : 11410315, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6229" }, "iddocumento" : 11619323, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e622a" }, "iddocumento" : 11446449, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 6, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e622b" }, "iddocumento" : 11410311, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e622c" }, "iddocumento" : 11410309, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e622d" }, "iddocumento" : 11410167, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e622e" }, "iddocumento" : 11410609, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 4, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e622f" }, "iddocumento" : 11618333, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 8, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6230" }, "iddocumento" : 11410305, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6231" }, "iddocumento" : 11410303, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6232" }, "iddocumento" : 11446443, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 6, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6233" }, "iddocumento" : 11410601, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 3, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6234" }, "iddocumento" : 11410297, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6235" }, "iddocumento" : 11446527, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 5, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6236" }, "iddocumento" : 11410173, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6237" }, "iddocumento" : 11410333, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6238" }, "iddocumento" : 11446475, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 6, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6239" }, "iddocumento" : 11410237, "Pacchetti" : null, "iddoctype" : 2, "idLeaf" : 2, "idIndex" : 1641, "collection" : "DocType2" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e623a" }, "iddocumento" : 12457831, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e623b" }, "iddocumento" : 12457807, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 18, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e623c" }, "iddocumento" : 12457829, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e623d" }, "iddocumento" : 12497201, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 20, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e623e" }, "iddocumento" : 12457823, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 11, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e623f" }, "iddocumento" : 12457891, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6240" }, "iddocumento" : 12457821, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6241" }, "iddocumento" : 12457889, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6242" }, "iddocumento" : 12457885, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6243" }, "iddocumento" : 12457815, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6244" }, "iddocumento" : 12457813, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 16, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6245" }, "iddocumento" : 12457835, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1767, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6246" }, "iddocumento" : 6764943, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6247" }, "iddocumento" : 9639689, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6248" }, "iddocumento" : 9091165, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6249" }, "iddocumento" : 6764939, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e624a" }, "iddocumento" : 6764937, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 11, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e624b" }, "iddocumento" : 6764949, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 15, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e624c" }, "iddocumento" : 6764935, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 10, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e624d" }, "iddocumento" : 6764927, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e624e" }, "iddocumento" : 6764933, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e624f" }, "iddocumento" : 6764953, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 16, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6250" }, "iddocumento" : 6764905, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 7, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6251" }, "iddocumento" : 4183065, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6252" }, "iddocumento" : 6851463, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 17, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6253" }, "iddocumento" : 9639693, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6254" }, "iddocumento" : 6764945, "Pacchetti" : [ 1922, 2111, 2112 ], "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 871, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6255" }, "iddocumento" : 10382015, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 2, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6256" }, "iddocumento" : 10382311, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 12, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6257" }, "iddocumento" : 10382251, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 4, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6258" }, "iddocumento" : 10382309, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 11, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6259" }, "iddocumento" : 10382285, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 6, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e625a" }, "iddocumento" : 10382353, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 17, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e625b" }, "iddocumento" : 10382329, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 16, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e625c" }, "iddocumento" : 10382305, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 10, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e625d" }, "iddocumento" : 10382357, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 18, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e625e" }, "iddocumento" : 10382325, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 15, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e625f" }, "iddocumento" : 10382019, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 3, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6260" }, "iddocumento" : 10382321, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 14, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6261" }, "iddocumento" : 10382283, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 5, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6262" }, "iddocumento" : 10382319, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 13, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6263" }, "iddocumento" : 10382295, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 8, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6264" }, "iddocumento" : 10382293, "Pacchetti" : [ 2062 ], "iddoctype" : 7, "idLeaf" : 7, "idIndex" : 1547, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6265" }, "iddocumento" : 12110489, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 74, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6266" }, "iddocumento" : 12110391, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 55, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6267" }, "iddocumento" : 12110389, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 54, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6268" }, "iddocumento" : 12110481, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 72, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6269" }, "iddocumento" : 12110479, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 71, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e626a" }, "iddocumento" : 12110475, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 70, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e626b" }, "iddocumento" : 12110425, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 63, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e626c" }, "iddocumento" : 12110469, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 69, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e626d" }, "iddocumento" : 12110421, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 62, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e626e" }, "iddocumento" : 12110417, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 61, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e626f" }, "iddocumento" : 12110463, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 68, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6270" }, "iddocumento" : 12110413, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 60, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6271" }, "iddocumento" : 12110459, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 67, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6272" }, "iddocumento" : 12110411, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 59, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6273" }, "iddocumento" : 12110355, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 53, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6274" }, "iddocumento" : 12110455, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 66, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6275" }, "iddocumento" : 12110407, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 58, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6276" }, "iddocumento" : 12110405, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 57, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6277" }, "iddocumento" : 12110485, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 73, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6278" }, "iddocumento" : 12110449, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 65, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6279" }, "iddocumento" : 12110401, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 56, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e627a" }, "iddocumento" : 12110445, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 64, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e627b" }, "iddocumento" : 12110491, "Pacchetti" : [ 2122 ], "iddoctype" : 12, "idLeaf" : 75, "idIndex" : 1681, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e627c" }, "iddocumento" : 10960223, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 23, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e627d" }, "iddocumento" : 10569457, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e627e" }, "iddocumento" : 10960507, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 19, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e627f" }, "iddocumento" : 10960529, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6280" }, "iddocumento" : 10444039, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 7, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6281" }, "iddocumento" : 10569649, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 25, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6282" }, "iddocumento" : 10923605, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 30, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6283" }, "iddocumento" : 10489397, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 17, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6284" }, "iddocumento" : 10540007, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 23, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6285" }, "iddocumento" : 10536145, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 22, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6286" }, "iddocumento" : 10512175, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 19, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6287" }, "iddocumento" : 10489383, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 12, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6288" }, "iddocumento" : 10960503, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 15, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6289" }, "iddocumento" : 10569203, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 24, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e628a" }, "iddocumento" : 10455731, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 9, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e628b" }, "iddocumento" : 11022131, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 31, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e628c" }, "iddocumento" : 10569513, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 22, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e628d" }, "iddocumento" : 10489365, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 11, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e628e" }, "iddocumento" : 10489255, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 15, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e628f" }, "iddocumento" : 11646025, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 32, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6290" }, "iddocumento" : 10960475, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 11, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6291" }, "iddocumento" : 10960027, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 29, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6292" }, "iddocumento" : 10960025, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 28, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6293" }, "iddocumento" : 10715847, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 28, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6294" }, "iddocumento" : 10810559, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 29, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6295" }, "iddocumento" : 10493345, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 18, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6296" }, "iddocumento" : 10444073, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 8, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6297" }, "iddocumento" : 10489225, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 14, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6298" }, "iddocumento" : 10960527, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6299" }, "iddocumento" : 10524853, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 20, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e629a" }, "iddocumento" : 10455785, "Pacchetti" : [ 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 9, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e629b" }, "iddocumento" : 10722157, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 27, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e629c" }, "iddocumento" : 10512433, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e629d" }, "iddocumento" : 10960227, "Pacchetti" : [ 2076, 2168 ], "iddoctype" : 16, "idLeaf" : 25, "idIndex" : 1552, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e629e" }, "iddocumento" : 10638263, "Pacchetti" : [ 2071, 2165, 2166 ], "iddoctype" : 12, "idLeaf" : 27, "idIndex" : 1552, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e629f" }, "iddocumento" : 12332799, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 18, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a0" }, "iddocumento" : 12332703, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a1" }, "iddocumento" : 12332829, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 22, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a2" }, "iddocumento" : 12332653, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 10, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a3" }, "iddocumento" : 12325977, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 7, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a4" }, "iddocumento" : 12332927, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 26, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a5" }, "iddocumento" : 12332955, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 30, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a6" }, "iddocumento" : 12325967, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a7" }, "iddocumento" : 12332777, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 16, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a8" }, "iddocumento" : 12332839, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 24, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62a9" }, "iddocumento" : 12326005, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62aa" }, "iddocumento" : 12332819, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 20, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ab" }, "iddocumento" : 12325953, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ac" }, "iddocumento" : 12332861, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 25, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ad" }, "iddocumento" : 12325951, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ae" }, "iddocumento" : 12332949, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 28, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62af" }, "iddocumento" : 12332807, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 19, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b0" }, "iddocumento" : 12332711, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b1" }, "iddocumento" : 12332663, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1755, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b2" }, "iddocumento" : 12335151, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 22, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b3" }, "iddocumento" : 12335191, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 23, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b4" }, "iddocumento" : 12335047, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b5" }, "iddocumento" : 12335045, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b6" }, "iddocumento" : 12335141, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 21, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b7" }, "iddocumento" : 12335003, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b8" }, "iddocumento" : 12335649, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 32, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62b9" }, "iddocumento" : 12335131, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 18, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ba" }, "iddocumento" : 12335271, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 30, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62bb" }, "iddocumento" : 12335225, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 28, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62bc" }, "iddocumento" : 12335031, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 35, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62bd" }, "iddocumento" : 12335029, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 34, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62be" }, "iddocumento" : 12335027, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62bf" }, "iddocumento" : 12335119, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 17, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c0" }, "iddocumento" : 12335023, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 7, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c1" }, "iddocumento" : 12335139, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 20, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c2" }, "iddocumento" : 12335207, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 25, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c3" }, "iddocumento" : 12335217, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 26, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c4" }, "iddocumento" : 12335203, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 24, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c5" }, "iddocumento" : 12335011, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c6" }, "iddocumento" : 12335111, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 15, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c7" }, "iddocumento" : 12335019, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 1758, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c8" }, "iddocumento" : 9680215, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62c9" }, "iddocumento" : 7771557, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ca" }, "iddocumento" : 11408655, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62cb" }, "iddocumento" : 9048529, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62cc" }, "iddocumento" : 7771915, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62cd" }, "iddocumento" : 11583377, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ce" }, "iddocumento" : 7774655, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62cf" }, "iddocumento" : 8356097, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d0" }, "iddocumento" : 11369691, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d1" }, "iddocumento" : 9013625, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d2" }, "iddocumento" : 9666093, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d3" }, "iddocumento" : 7771297, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d4" }, "iddocumento" : 7774641, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d5" }, "iddocumento" : 9752939, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d6" }, "iddocumento" : 8258851, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d7" }, "iddocumento" : 7770965, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d8" }, "iddocumento" : 7774631, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62d9" }, "iddocumento" : 7774627, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62da" }, "iddocumento" : 10105593, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62db" }, "iddocumento" : 9099641, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62dc" }, "iddocumento" : 8065007, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62dd" }, "iddocumento" : 11186661, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62de" }, "iddocumento" : 8452185, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62df" }, "iddocumento" : 10183977, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e0" }, "iddocumento" : 11737473, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e1" }, "iddocumento" : 9826187, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e2" }, "iddocumento" : 11215015, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e3" }, "iddocumento" : 9474377, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e4" }, "iddocumento" : 11539575, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e5" }, "iddocumento" : 9381881, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e6" }, "iddocumento" : 7774603, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e7" }, "iddocumento" : 7771733, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e8" }, "iddocumento" : 7858489, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62e9" }, "iddocumento" : 10220045, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ea" }, "iddocumento" : 8733941, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62eb" }, "iddocumento" : 9715513, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ec" }, "iddocumento" : 7771619, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ed" }, "iddocumento" : 11771245, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ee" }, "iddocumento" : 10586881, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ef" }, "iddocumento" : 7771003, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f0" }, "iddocumento" : 10773879, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f1" }, "iddocumento" : 11670281, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f2" }, "iddocumento" : 9460247, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f3" }, "iddocumento" : 9895465, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f4" }, "iddocumento" : 7774815, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f5" }, "iddocumento" : 10699695, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f6" }, "iddocumento" : 7858461, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f7" }, "iddocumento" : 7771701, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f8" }, "iddocumento" : 10844543, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62f9" }, "iddocumento" : 10344187, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62fa" }, "iddocumento" : 11441301, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62fb" }, "iddocumento" : 8412691, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62fc" }, "iddocumento" : 10380855, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62fd" }, "iddocumento" : 7771691, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62fe" }, "iddocumento" : 7774797, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e62ff" }, "iddocumento" : 7774597, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6300" }, "iddocumento" : 7774555, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6301" }, "iddocumento" : 8328075, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6302" }, "iddocumento" : 7771921, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6303" }, "iddocumento" : 10539779, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6304" }, "iddocumento" : 7774787, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6305" }, "iddocumento" : 11023991, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6306" }, "iddocumento" : 8512337, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6307" }, "iddocumento" : 8933215, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6308" }, "iddocumento" : 7771433, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6309" }, "iddocumento" : 11466703, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e630a" }, "iddocumento" : 7774535, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e630b" }, "iddocumento" : 9273541, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e630c" }, "iddocumento" : 11097107, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e630d" }, "iddocumento" : 11809087, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e630e" }, "iddocumento" : 10507731, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e630f" }, "iddocumento" : 9995799, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6310" }, "iddocumento" : 7774521, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6311" }, "iddocumento" : 7867251, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6312" }, "iddocumento" : 9494123, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6313" }, "iddocumento" : 10310783, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6314" }, "iddocumento" : 7771645, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6315" }, "iddocumento" : 8194435, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6316" }, "iddocumento" : 10968507, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6317" }, "iddocumento" : 9341153, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6318" }, "iddocumento" : 8229323, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6319" }, "iddocumento" : 10285439, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e631a" }, "iddocumento" : 7774547, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e631b" }, "iddocumento" : 8383953, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e631c" }, "iddocumento" : 7771069, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e631d" }, "iddocumento" : 11704235, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e631e" }, "iddocumento" : 10655645, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e631f" }, "iddocumento" : 8556855, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6320" }, "iddocumento" : 7771759, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6321" }, "iddocumento" : 10147763, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6322" }, "iddocumento" : 9158747, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6323" }, "iddocumento" : 9144917, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6324" }, "iddocumento" : 7774649, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6325" }, "iddocumento" : 10934143, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6326" }, "iddocumento" : 7774529, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6327" }, "iddocumento" : 10026343, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6328" }, "iddocumento" : 7915255, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6329" }, "iddocumento" : 7771137, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e632a" }, "iddocumento" : 7771133, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e632b" }, "iddocumento" : 7774561, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e632c" }, "iddocumento" : 10423311, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e632d" }, "iddocumento" : 8845193, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e632e" }, "iddocumento" : 10740167, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e632f" }, "iddocumento" : 7771033, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6330" }, "iddocumento" : 7771493, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6331" }, "iddocumento" : 7771113, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6332" }, "iddocumento" : 8893695, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6333" }, "iddocumento" : 11625255, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6334" }, "iddocumento" : 11069207, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6335" }, "iddocumento" : 8127185, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6336" }, "iddocumento" : 11349889, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6337" }, "iddocumento" : 10069565, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6338" }, "iddocumento" : 8481887, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6339" }, "iddocumento" : 11498361, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e633a" }, "iddocumento" : 8974703, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e633b" }, "iddocumento" : 7858373, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e633c" }, "iddocumento" : 7771335, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e633d" }, "iddocumento" : 7771377, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e633e" }, "iddocumento" : 10235421, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e633f" }, "iddocumento" : 7771597, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6340" }, "iddocumento" : 9866405, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fbb1149bd3c48e6341" }, "iddocumento" : 10469635, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 668, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6342" }, "iddocumento" : 12335055, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6343" }, "iddocumento" : 12335099, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6344" }, "iddocumento" : 12335695, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 15, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6345" }, "iddocumento" : 12335193, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 10, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6346" }, "iddocumento" : 12335237, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6347" }, "iddocumento" : 12335749, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 18, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6348" }, "iddocumento" : 12335745, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 16, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6349" }, "iddocumento" : 12341853, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 27, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e634a" }, "iddocumento" : 12341805, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 26, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e634b" }, "iddocumento" : 12335787, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 24, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e634c" }, "iddocumento" : 12335757, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 20, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e634d" }, "iddocumento" : 12335127, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e634e" }, "iddocumento" : 12335213, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e634f" }, "iddocumento" : 12335773, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 23, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6350" }, "iddocumento" : 12335113, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 7, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6351" }, "iddocumento" : 12335065, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6352" }, "iddocumento" : 12335765, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 21, "idIndex" : 1757, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6353" }, "iddocumento" : 12476875, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6354" }, "iddocumento" : 12470099, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6355" }, "iddocumento" : 12476873, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6356" }, "iddocumento" : 12409855, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 29, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6357" }, "iddocumento" : 12464531, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6358" }, "iddocumento" : 12464529, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6359" }, "iddocumento" : 12507863, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 22, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e635a" }, "iddocumento" : 12464527, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e635b" }, "iddocumento" : 12481497, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e635c" }, "iddocumento" : 12467413, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 35, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e635d" }, "iddocumento" : 12472655, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e635e" }, "iddocumento" : 12467355, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e635f" }, "iddocumento" : 12472649, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 22, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6360" }, "iddocumento" : 12507851, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6361" }, "iddocumento" : 12409865, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 29, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6362" }, "iddocumento" : 12470077, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6363" }, "iddocumento" : 12463977, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6364" }, "iddocumento" : 12470075, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6365" }, "iddocumento" : 12300479, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6366" }, "iddocumento" : 12419355, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6367" }, "iddocumento" : 12500031, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6368" }, "iddocumento" : 12470105, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6369" }, "iddocumento" : 12470069, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e636a" }, "iddocumento" : 12470101, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e636b" }, "iddocumento" : 12470033, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e636c" }, "iddocumento" : 12285063, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e636d" }, "iddocumento" : 12524207, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 34, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e636e" }, "iddocumento" : 12292553, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e636f" }, "iddocumento" : 12403955, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 29, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6370" }, "iddocumento" : 12524203, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 30, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6371" }, "iddocumento" : 12524201, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 34, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6372" }, "iddocumento" : 12377289, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6373" }, "iddocumento" : 12524199, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 34, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6374" }, "iddocumento" : 12464061, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6375" }, "iddocumento" : 12285475, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6376" }, "iddocumento" : 12437093, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 30, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6377" }, "iddocumento" : 12455175, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6378" }, "iddocumento" : 12476981, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 12, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6379" }, "iddocumento" : 12470045, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e637a" }, "iddocumento" : 12524185, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 22, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e637b" }, "iddocumento" : 12524183, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 33, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e637c" }, "iddocumento" : 12464037, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e637d" }, "iddocumento" : 12467363, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 36, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e637e" }, "iddocumento" : 12470073, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e637f" }, "iddocumento" : 12470035, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6380" }, "iddocumento" : 12344309, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6381" }, "iddocumento" : 12524175, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 33, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6382" }, "iddocumento" : 12313277, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6383" }, "iddocumento" : 12467463, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 6, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6384" }, "iddocumento" : 12476985, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6385" }, "iddocumento" : 12467461, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6386" }, "iddocumento" : 12470135, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6387" }, "iddocumento" : 12467459, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 6, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6388" }, "iddocumento" : 12470031, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6389" }, "iddocumento" : 12467457, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e638a" }, "iddocumento" : 12476979, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 12, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e638b" }, "iddocumento" : 12439207, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e638c" }, "iddocumento" : 12467453, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 19, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e638d" }, "iddocumento" : 12476975, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 25, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e638e" }, "iddocumento" : 12524235, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 30, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e638f" }, "iddocumento" : 12524159, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 25, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6390" }, "iddocumento" : 12476971, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 30, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6391" }, "iddocumento" : 12476863, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 19, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6392" }, "iddocumento" : 12344181, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6393" }, "iddocumento" : 12485741, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 30, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6394" }, "iddocumento" : 12491409, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6395" }, "iddocumento" : 12476855, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 29, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6396" }, "iddocumento" : 12524255, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 34, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6397" }, "iddocumento" : 12481483, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6398" }, "iddocumento" : 12481499, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6399" }, "iddocumento" : 12476983, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e639a" }, "iddocumento" : 12476881, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e639b" }, "iddocumento" : 12470071, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e639c" }, "iddocumento" : 12470103, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 7, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e639d" }, "iddocumento" : 12464003, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 29, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e639e" }, "iddocumento" : 12472659, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 1762, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e639f" }, "iddocumento" : 30079, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 1999, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 20, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a0" }, "iddocumento" : 30078, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 19, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a1" }, "iddocumento" : 30077, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 58, 1910, 1999, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 18, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a2" }, "iddocumento" : 30076, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1906, 1910, 2005, 2095, 2096, 2097, 2098 ], "iddoctype" : 1, "idLeaf" : 17, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a3" }, "iddocumento" : 30075, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 16, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a4" }, "iddocumento" : 30074, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 14, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a5" }, "iddocumento" : 30073, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 13, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a6" }, "iddocumento" : 30072, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 12, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a7" }, "iddocumento" : 30071, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 11, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a8" }, "iddocumento" : 30070, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 10, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63a9" }, "iddocumento" : 30069, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 9, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63aa" }, "iddocumento" : 30068, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 8, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ab" }, "iddocumento" : 30067, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 7, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ac" }, "iddocumento" : 30066, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 6, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ad" }, "iddocumento" : 30096, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 37, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ae" }, "iddocumento" : 30095, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 36, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63af" }, "iddocumento" : 30094, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 35, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b0" }, "iddocumento" : 30093, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 34, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b1" }, "iddocumento" : 30092, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 33, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b2" }, "iddocumento" : 30091, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 32, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b3" }, "iddocumento" : 30090, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 31, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b4" }, "iddocumento" : 30089, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 30, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b5" }, "iddocumento" : 30088, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 29, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b6" }, "iddocumento" : 30087, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 28, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b7" }, "iddocumento" : 30086, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 27, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b8" }, "iddocumento" : 30085, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 26, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63b9" }, "iddocumento" : 30084, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 25, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ba" }, "iddocumento" : 30083, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 24, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63bb" }, "iddocumento" : 30082, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 23, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63bc" }, "iddocumento" : 30081, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 22, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63bd" }, "iddocumento" : 30080, "Pacchetti" : [ 42, 43, 44, 45, 46, 47, 48, 50, 51, 52, 53, 54, 55, 1910, 2005, 2095, 2096, 2098 ], "iddoctype" : 1, "idLeaf" : 21, "idIndex" : 656, "collection" : "DocType1" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63be" }, "iddocumento" : 11685515, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 4, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63bf" }, "iddocumento" : 11685561, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 13, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c0" }, "iddocumento" : 11685699, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 22, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c1" }, "iddocumento" : 11740077, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 27, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c2" }, "iddocumento" : 11698951, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 26, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c3" }, "iddocumento" : 11740169, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 28, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c4" }, "iddocumento" : 11685553, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 12, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c5" }, "iddocumento" : 11685521, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 6, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c6" }, "iddocumento" : 11685691, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 20, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c7" }, "iddocumento" : 11685643, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 15, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c8" }, "iddocumento" : 12354225, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 38, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63c9" }, "iddocumento" : 11685703, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 23, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ca" }, "iddocumento" : 11685543, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 11, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63cb" }, "iddocumento" : 11685683, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 19, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63cc" }, "iddocumento" : 12353443, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 37, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63cd" }, "iddocumento" : 11740201, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 35, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ce" }, "iddocumento" : 11685539, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 10, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63cf" }, "iddocumento" : 11685649, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 16, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d0" }, "iddocumento" : 11740573, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 30, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d1" }, "iddocumento" : 12354251, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 39, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d2" }, "iddocumento" : 12354389, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 40, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d3" }, "iddocumento" : 11685531, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 34, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d4" }, "iddocumento" : 11685671, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 18, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d5" }, "iddocumento" : 11749451, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 31, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d6" }, "iddocumento" : 12354843, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 41, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d7" }, "iddocumento" : 11698937, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 24, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d8" }, "iddocumento" : 11685525, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 36, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63d9" }, "iddocumento" : 11785631, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 32, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63da" }, "iddocumento" : 12353155, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 33, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63db" }, "iddocumento" : 11685517, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 5, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63dc" }, "iddocumento" : 11685657, "Pacchetti" : [ 2071 ], "iddoctype" : 12, "idLeaf" : 17, "idIndex" : 1676, "collection" : "DocType12" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63dd" }, "iddocumento" : 10545997, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 26, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63de" }, "iddocumento" : 10394233, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 22, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63df" }, "iddocumento" : 10962931, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 34, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e0" }, "iddocumento" : 10739821, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 30, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e1" }, "iddocumento" : 11474663, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 42, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e2" }, "iddocumento" : 9728741, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 6, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e3" }, "iddocumento" : 10131353, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 16, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e4" }, "iddocumento" : 10311497, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 20, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e5" }, "iddocumento" : 10514401, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 24, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e6" }, "iddocumento" : 9850431, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 12, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e7" }, "iddocumento" : 9835951, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 10, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e8" }, "iddocumento" : 9766217, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 8, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63e9" }, "iddocumento" : 10885975, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 32, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ea" }, "iddocumento" : 10061875, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 14, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63eb" }, "iddocumento" : 11068097, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 36, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ec" }, "iddocumento" : 10689607, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 28, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ed" }, "iddocumento" : 11944503, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 44, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ee" }, "iddocumento" : 11177037, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 38, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ef" }, "iddocumento" : 9663637, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 4, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f0" }, "iddocumento" : 9383985, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 2, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f1" }, "iddocumento" : 10235529, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 18, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f2" }, "iddocumento" : 12207041, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 48, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f3" }, "iddocumento" : 11350129, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 40, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f4" }, "iddocumento" : 12117223, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 52, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f5" }, "iddocumento" : 11984043, "Pacchetti" : null, "iddoctype" : 13, "idLeaf" : 46, "idIndex" : 851, "collection" : "DocType13" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f6" }, "iddocumento" : 12504443, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 28, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f7" }, "iddocumento" : 12289697, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f8" }, "iddocumento" : 12330771, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63f9" }, "iddocumento" : 12413161, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63fa" }, "iddocumento" : 12452123, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63fb" }, "iddocumento" : 12351025, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63fc" }, "iddocumento" : 12262147, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63fd" }, "iddocumento" : 12478063, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63fe" }, "iddocumento" : 12522101, "Pacchetti" : [ 2229, 2255 ], "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e63ff" }, "iddocumento" : 12428663, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6400" }, "iddocumento" : 12377291, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6401" }, "iddocumento" : 12316519, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6402" }, "iddocumento" : 12262139, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6403" }, "iddocumento" : 12363067, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 45, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6404" }, "iddocumento" : 12305467, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 27, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6405" }, "iddocumento" : 12390755, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6406" }, "iddocumento" : 12464559, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 19, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6407" }, "iddocumento" : 12278155, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6408" }, "iddocumento" : 12439221, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 40, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6409" }, "iddocumento" : 12488557, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1721, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e640a" }, "iddocumento" : 12097467, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 44, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e640b" }, "iddocumento" : 12097371, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 9, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e640c" }, "iddocumento" : 12097417, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 25, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e640d" }, "iddocumento" : 12097367, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 8, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e640e" }, "iddocumento" : 12097413, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 24, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e640f" }, "iddocumento" : 12097365, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 7, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6410" }, "iddocumento" : 12097411, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 22, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6411" }, "iddocumento" : 12139431, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 60, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6412" }, "iddocumento" : 12096701, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 2, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6413" }, "iddocumento" : 12097499, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 59, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6414" }, "iddocumento" : 12097341, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 4, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6415" }, "iddocumento" : 12097449, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 36, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6416" }, "iddocumento" : 12097495, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 58, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6417" }, "iddocumento" : 12097493, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 57, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6418" }, "iddocumento" : 12097491, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 56, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6419" }, "iddocumento" : 12097425, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 29, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e641a" }, "iddocumento" : 12097395, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 17, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e641b" }, "iddocumento" : 12097377, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 11, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e641c" }, "iddocumento" : 12097487, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 55, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e641d" }, "iddocumento" : 12097485, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 54, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e641e" }, "iddocumento" : 12097437, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 34, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e641f" }, "iddocumento" : 12097483, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 53, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6420" }, "iddocumento" : 12097343, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 5, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6421" }, "iddocumento" : 12097481, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 52, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6422" }, "iddocumento" : 12097339, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 3, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6423" }, "iddocumento" : 12097479, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 51, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6424" }, "iddocumento" : 12097477, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 49, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6425" }, "iddocumento" : 12097429, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 30, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6426" }, "iddocumento" : 12097475, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 48, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6427" }, "iddocumento" : 12097473, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 46, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6428" }, "iddocumento" : 12097453, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 37, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6429" }, "iddocumento" : 12097471, "Pacchetti" : [ 1904 ], "iddoctype" : 7, "idLeaf" : 45, "idIndex" : 1720, "collection" : "DocType7" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e642a" }, "iddocumento" : 8385069, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e642b" }, "iddocumento" : 7771687, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e642c" }, "iddocumento" : 7771223, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e642d" }, "iddocumento" : 7771729, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e642e" }, "iddocumento" : 7771073, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e642f" }, "iddocumento" : 7771547, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6430" }, "iddocumento" : 7771065, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6431" }, "iddocumento" : 10531275, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6432" }, "iddocumento" : 9673025, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6433" }, "iddocumento" : 7771301, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6434" }, "iddocumento" : 10831933, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6435" }, "iddocumento" : 11399359, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6436" }, "iddocumento" : 8960561, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6437" }, "iddocumento" : 7771533, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6438" }, "iddocumento" : 10128107, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6439" }, "iddocumento" : 9300691, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e643a" }, "iddocumento" : 8416829, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e643b" }, "iddocumento" : 11212409, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e643c" }, "iddocumento" : 9246871, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e643d" }, "iddocumento" : 7811745, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e643e" }, "iddocumento" : 8965805, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e643f" }, "iddocumento" : 7771521, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6440" }, "iddocumento" : 11102167, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6441" }, "iddocumento" : 7771651, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6442" }, "iddocumento" : 7771419, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6443" }, "iddocumento" : 7771019, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6444" }, "iddocumento" : 9691641, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6445" }, "iddocumento" : 7771275, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6446" }, "iddocumento" : 8439255, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6447" }, "iddocumento" : 8198843, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6448" }, "iddocumento" : 10328093, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6449" }, "iddocumento" : 8425891, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e644a" }, "iddocumento" : 7771269, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e644b" }, "iddocumento" : 7771507, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e644c" }, "iddocumento" : 10694235, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e644d" }, "iddocumento" : 11173635, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e644e" }, "iddocumento" : 9739425, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e644f" }, "iddocumento" : 7771259, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6450" }, "iddocumento" : 9258555, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6451" }, "iddocumento" : 10509497, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6452" }, "iddocumento" : 9411033, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6453" }, "iddocumento" : 9020543, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6454" }, "iddocumento" : 7771625, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6455" }, "iddocumento" : 8204797, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6456" }, "iddocumento" : 7771011, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6457" }, "iddocumento" : 10389255, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6458" }, "iddocumento" : 11624645, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6459" }, "iddocumento" : 7771725, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e645a" }, "iddocumento" : 7857821, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e645b" }, "iddocumento" : 8367787, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e645c" }, "iddocumento" : 8979381, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e645d" }, "iddocumento" : 7771479, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e645e" }, "iddocumento" : 9421295, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e645f" }, "iddocumento" : 7771955, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6460" }, "iddocumento" : 7770997, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6461" }, "iddocumento" : 10382787, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6462" }, "iddocumento" : 9318519, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6463" }, "iddocumento" : 9493809, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6464" }, "iddocumento" : 7771231, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6465" }, "iddocumento" : 8431585, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6466" }, "iddocumento" : 11187015, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6467" }, "iddocumento" : 7770987, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6468" }, "iddocumento" : 11398527, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6469" }, "iddocumento" : 9725765, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e646a" }, "iddocumento" : 8244201, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e646b" }, "iddocumento" : 7774565, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e646c" }, "iddocumento" : 10322065, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e646d" }, "iddocumento" : 10008735, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e646e" }, "iddocumento" : 7771455, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e646f" }, "iddocumento" : 9872095, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6470" }, "iddocumento" : 7770973, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6471" }, "iddocumento" : 11803619, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6472" }, "iddocumento" : 7771209, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6473" }, "iddocumento" : 8928685, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6474" }, "iddocumento" : 7771683, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6475" }, "iddocumento" : 11467577, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6476" }, "iddocumento" : 7771441, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6477" }, "iddocumento" : 7771575, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6478" }, "iddocumento" : 7771677, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6479" }, "iddocumento" : 9846465, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e647a" }, "iddocumento" : 8166667, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e647b" }, "iddocumento" : 7857951, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e647c" }, "iddocumento" : 7771191, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e647d" }, "iddocumento" : 7771243, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e647e" }, "iddocumento" : 7771667, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e647f" }, "iddocumento" : 7771563, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6480" }, "iddocumento" : 9388977, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6481" }, "iddocumento" : 11390123, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6482" }, "iddocumento" : 7771901, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6483" }, "iddocumento" : 7771661, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6484" }, "iddocumento" : 10327055, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6485" }, "iddocumento" : 7770941, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6486" }, "iddocumento" : 7771179, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6487" }, "iddocumento" : 8381105, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6488" }, "iddocumento" : 11416165, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6489" }, "iddocumento" : 8894235, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e648a" }, "iddocumento" : 7771317, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e648b" }, "iddocumento" : 8208303, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e648c" }, "iddocumento" : 10010123, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e648d" }, "iddocumento" : 7771167, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e648e" }, "iddocumento" : 7771405, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e648f" }, "iddocumento" : 7771077, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6490" }, "iddocumento" : 10956795, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6491" }, "iddocumento" : 8081863, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6492" }, "iddocumento" : 7771639, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6493" }, "iddocumento" : 10735301, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6494" }, "iddocumento" : 7770919, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6495" }, "iddocumento" : 7771157, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6496" }, "iddocumento" : 11717953, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6497" }, "iddocumento" : 9092613, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6498" }, "iddocumento" : 7771529, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6499" }, "iddocumento" : 7771391, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e649a" }, "iddocumento" : 7771499, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e649b" }, "iddocumento" : 7771387, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e649c" }, "iddocumento" : 7771147, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e649d" }, "iddocumento" : 9378421, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e649e" }, "iddocumento" : 8406225, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e649f" }, "iddocumento" : 10608551, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a0" }, "iddocumento" : 7771749, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a1" }, "iddocumento" : 11043713, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a2" }, "iddocumento" : 7771051, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a3" }, "iddocumento" : 9101649, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a4" }, "iddocumento" : 9283527, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a5" }, "iddocumento" : 7771743, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a6" }, "iddocumento" : 7771371, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a7" }, "iddocumento" : 11167185, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a8" }, "iddocumento" : 10406485, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64a9" }, "iddocumento" : 7771127, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64aa" }, "iddocumento" : 10724927, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ab" }, "iddocumento" : 7771039, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ac" }, "iddocumento" : 7770955, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ad" }, "iddocumento" : 8071545, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ae" }, "iddocumento" : 7771121, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64af" }, "iddocumento" : 7771961, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b0" }, "iddocumento" : 11602525, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b1" }, "iddocumento" : 7771029, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b2" }, "iddocumento" : 8152797, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b3" }, "iddocumento" : 10015081, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b4" }, "iddocumento" : 7857977, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b5" }, "iddocumento" : 7771349, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b6" }, "iddocumento" : 10257881, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b7" }, "iddocumento" : 7771585, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b8" }, "iddocumento" : 7771105, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64b9" }, "iddocumento" : 8157567, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ba" }, "iddocumento" : 10011967, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64bb" }, "iddocumento" : 10202307, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64bc" }, "iddocumento" : 7771339, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64bd" }, "iddocumento" : 7771709, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64be" }, "iddocumento" : 7771097, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64bf" }, "iddocumento" : 7771605, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c0" }, "iddocumento" : 10121651, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c1" }, "iddocumento" : 11351073, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c2" }, "iddocumento" : 10212237, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c3" }, "iddocumento" : 11068495, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c4" }, "iddocumento" : 10440241, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c5" }, "iddocumento" : 7771327, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c6" }, "iddocumento" : 8495053, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c7" }, "iddocumento" : 9691795, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c8" }, "iddocumento" : 7771085, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 665, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64c9" }, "iddocumento" : 12477465, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 26, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ca" }, "iddocumento" : 12477229, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 15, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64cb" }, "iddocumento" : 12477743, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 33, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64cc" }, "iddocumento" : 12477789, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 35, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64cd" }, "iddocumento" : 12477317, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 24, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ce" }, "iddocumento" : 12477739, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 32, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64cf" }, "iddocumento" : 12477549, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d0" }, "iddocumento" : 12477219, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d1" }, "iddocumento" : 12477747, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 34, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d2" }, "iddocumento" : 12477713, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 30, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d3" }, "iddocumento" : 12477075, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d4" }, "iddocumento" : 12477285, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 23, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d5" }, "iddocumento" : 12477305, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d6" }, "iddocumento" : 12477585, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 28, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d7" }, "iddocumento" : 12477631, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 29, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d8" }, "iddocumento" : 12477323, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64d9" }, "iddocumento" : 12477155, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 22, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64da" }, "iddocumento" : 12477481, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64db" }, "iddocumento" : 12477715, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 31, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64dc" }, "iddocumento" : 12477573, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64dd" }, "iddocumento" : 12477243, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 19, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64de" }, "iddocumento" : 12477383, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 7, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64df" }, "iddocumento" : 12477145, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e0" }, "iddocumento" : 12477191, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e1" }, "iddocumento" : 12477125, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 21, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e2" }, "iddocumento" : 12477751, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 18, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e3" }, "iddocumento" : 12477797, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 36, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e4" }, "iddocumento" : 12477607, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 27, "idIndex" : 1771, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e5" }, "iddocumento" : 9868447, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 27, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e6" }, "iddocumento" : 9208209, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 38, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e7" }, "iddocumento" : 11785207, "Pacchetti" : [ 2158, 2264 ], "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e8" }, "iddocumento" : 12144511, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64e9" }, "iddocumento" : 11735093, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 21, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ea" }, "iddocumento" : 9208477, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 40, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64eb" }, "iddocumento" : 12065151, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ec" }, "iddocumento" : 9208475, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 39, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ed" }, "iddocumento" : 12090427, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ee" }, "iddocumento" : 11783173, "Pacchetti" : [ 2158, 2264 ], "iddoctype" : 16, "idLeaf" : 15, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ef" }, "iddocumento" : 7439425, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 44, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f0" }, "iddocumento" : 11735105, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 19, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f1" }, "iddocumento" : 12144499, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f2" }, "iddocumento" : 9482747, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 31, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f3" }, "iddocumento" : 7439421, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 45, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f4" }, "iddocumento" : 7777045, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 42, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f5" }, "iddocumento" : 11734977, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 23, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f6" }, "iddocumento" : 11926595, "Pacchetti" : [ 2158, 2264 ], "iddoctype" : 16, "idLeaf" : 10, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f7" }, "iddocumento" : 9482769, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 32, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f8" }, "iddocumento" : 9208205, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 34, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64f9" }, "iddocumento" : 10372581, "Pacchetti" : [ 2264 ], "iddoctype" : 16, "idLeaf" : 25, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64fa" }, "iddocumento" : 11785335, "Pacchetti" : [ 2158, 2264 ], "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64fb" }, "iddocumento" : 9208809, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 36, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64fc" }, "iddocumento" : 11735107, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 17, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64fd" }, "iddocumento" : 11909855, "Pacchetti" : [ 2158, 2264 ], "iddoctype" : 16, "idLeaf" : 11, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64fe" }, "iddocumento" : 6956239, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 47, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e64ff" }, "iddocumento" : 9208807, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 29, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6500" }, "iddocumento" : 6956237, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 48, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6501" }, "iddocumento" : 6956235, "Pacchetti" : [], "iddoctype" : 16, "idLeaf" : 49, "idIndex" : 1769, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6502" }, "iddocumento" : 7655101, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 31, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6503" }, "iddocumento" : 7655687, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 38, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6504" }, "iddocumento" : 7655075, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 33, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6505" }, "iddocumento" : 6945795, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 35, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6506" }, "iddocumento" : 7658407, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 46, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6507" }, "iddocumento" : 7658029, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6508" }, "iddocumento" : 7657695, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6509" }, "iddocumento" : 225016, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e650a" }, "iddocumento" : 225015, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e650b" }, "iddocumento" : 225014, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e650c" }, "iddocumento" : 225013, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 11, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e650d" }, "iddocumento" : 7658015, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 7, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e650e" }, "iddocumento" : 7658579, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 47, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e650f" }, "iddocumento" : 225004, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 10, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6510" }, "iddocumento" : 7658099, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 9, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6511" }, "iddocumento" : 225038, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6512" }, "iddocumento" : 7658381, "Pacchetti" : [ 1820 ], "iddoctype" : 16, "idLeaf" : 45, "idIndex" : 32, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6513" }, "iddocumento" : 12327157, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6514" }, "iddocumento" : 12333783, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 18, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6515" }, "iddocumento" : 12335145, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 93, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6516" }, "iddocumento" : 12334417, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 26, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6517" }, "iddocumento" : 12334761, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 46, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6518" }, "iddocumento" : 12336159, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 97, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6519" }, "iddocumento" : 12333865, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 95, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e651a" }, "iddocumento" : 12334333, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 96, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e651b" }, "iddocumento" : 12333767, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 16, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e651c" }, "iddocumento" : 12336163, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 98, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e651d" }, "iddocumento" : 12334705, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 39, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e651e" }, "iddocumento" : 12327135, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 10, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e651f" }, "iddocumento" : 12334701, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 38, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6520" }, "iddocumento" : 12334277, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 23, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6521" }, "iddocumento" : 12333759, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 14, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6522" }, "iddocumento" : 12334743, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 44, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6523" }, "iddocumento" : 12327643, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 8, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6524" }, "iddocumento" : 12327689, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 12, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6525" }, "iddocumento" : 12334737, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 43, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6526" }, "iddocumento" : 12327625, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6527" }, "iddocumento" : 12327685, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 13, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6528" }, "iddocumento" : 12327637, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6529" }, "iddocumento" : 12333795, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 21, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e652a" }, "iddocumento" : 12334493, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 28, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e652b" }, "iddocumento" : 12333787, "Pacchetti" : null, "iddoctype" : 16, "idLeaf" : 19, "idIndex" : 1754, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e652c" }, "iddocumento" : 10325175, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e652d" }, "iddocumento" : 9092271, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e652e" }, "iddocumento" : 7771227, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e652f" }, "iddocumento" : 10543985, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6530" }, "iddocumento" : 8399025, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6531" }, "iddocumento" : 7771219, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6532" }, "iddocumento" : 9992241, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6533" }, "iddocumento" : 11473443, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6534" }, "iddocumento" : 9499373, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6535" }, "iddocumento" : 8378175, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6536" }, "iddocumento" : 9013793, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6537" }, "iddocumento" : 7771205, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6538" }, "iddocumento" : 7858205, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6539" }, "iddocumento" : 10235521, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e653a" }, "iddocumento" : 9140897, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e653b" }, "iddocumento" : 7771705, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e653c" }, "iddocumento" : 8196317, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e653d" }, "iddocumento" : 7771697, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e653e" }, "iddocumento" : 7771175, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e653f" }, "iddocumento" : 9123169, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6540" }, "iddocumento" : 9246795, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6541" }, "iddocumento" : 8960603, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6542" }, "iddocumento" : 10290193, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6543" }, "iddocumento" : 9159893, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6544" }, "iddocumento" : 7771153, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6545" }, "iddocumento" : 11068037, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6546" }, "iddocumento" : 7771143, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6547" }, "iddocumento" : 9130949, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6548" }, "iddocumento" : 7771657, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6549" }, "iddocumento" : 8828763, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e654a" }, "iddocumento" : 11378531, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e654b" }, "iddocumento" : 8997039, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e654c" }, "iddocumento" : 10998197, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e654d" }, "iddocumento" : 7858001, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e654e" }, "iddocumento" : 7771117, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e654f" }, "iddocumento" : 7771635, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6550" }, "iddocumento" : 7771101, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6551" }, "iddocumento" : 7771593, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6552" }, "iddocumento" : 7771615, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6553" }, "iddocumento" : 7771093, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6554" }, "iddocumento" : 7771089, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6555" }, "iddocumento" : 7771081, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6556" }, "iddocumento" : 7771601, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6557" }, "iddocumento" : 10110367, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6558" }, "iddocumento" : 10530811, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6559" }, "iddocumento" : 10756403, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e655a" }, "iddocumento" : 11455063, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e655b" }, "iddocumento" : 8417631, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e655c" }, "iddocumento" : 8495259, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e655d" }, "iddocumento" : 11356845, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e655e" }, "iddocumento" : 9410649, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e655f" }, "iddocumento" : 7771061, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6560" }, "iddocumento" : 7771057, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6561" }, "iddocumento" : 9139081, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6562" }, "iddocumento" : 7771571, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6563" }, "iddocumento" : 7771047, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6564" }, "iddocumento" : 7771567, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6565" }, "iddocumento" : 7771043, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6566" }, "iddocumento" : 9714371, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6567" }, "iddocumento" : 10148363, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6568" }, "iddocumento" : 7771553, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6569" }, "iddocumento" : 7771525, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e656a" }, "iddocumento" : 7771025, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e656b" }, "iddocumento" : 7771541, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e656c" }, "iddocumento" : 7771517, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e656d" }, "iddocumento" : 7771015, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e656e" }, "iddocumento" : 10321673, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e656f" }, "iddocumento" : 8233135, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6570" }, "iddocumento" : 7771007, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6571" }, "iddocumento" : 11349753, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6572" }, "iddocumento" : 11611813, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6573" }, "iddocumento" : 11450301, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6574" }, "iddocumento" : 10022237, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6575" }, "iddocumento" : 11508127, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6576" }, "iddocumento" : 7770993, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6577" }, "iddocumento" : 7771513, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6578" }, "iddocumento" : 7774637, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6579" }, "iddocumento" : 7770983, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e657a" }, "iddocumento" : 7771503, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e657b" }, "iddocumento" : 8361025, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e657c" }, "iddocumento" : 7771475, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e657d" }, "iddocumento" : 9451207, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e657e" }, "iddocumento" : 11362745, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e657f" }, "iddocumento" : 7770969, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6580" }, "iddocumento" : 9540805, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6581" }, "iddocumento" : 8127329, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6582" }, "iddocumento" : 9827871, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6583" }, "iddocumento" : 7770961, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6584" }, "iddocumento" : 10931861, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6585" }, "iddocumento" : 8815667, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6586" }, "iddocumento" : 7770951, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6587" }, "iddocumento" : 7771471, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6588" }, "iddocumento" : 11350217, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6589" }, "iddocumento" : 10965195, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e658a" }, "iddocumento" : 7771463, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e658b" }, "iddocumento" : 11717829, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e658c" }, "iddocumento" : 7771459, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e658d" }, "iddocumento" : 10316021, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e658e" }, "iddocumento" : 7770935, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e658f" }, "iddocumento" : 7770931, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6590" }, "iddocumento" : 7771451, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6591" }, "iddocumento" : 10188889, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6592" }, "iddocumento" : 10755735, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6593" }, "iddocumento" : 11107407, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6594" }, "iddocumento" : 8948899, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6595" }, "iddocumento" : 7771437, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6596" }, "iddocumento" : 10776561, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6597" }, "iddocumento" : 10035177, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6598" }, "iddocumento" : 10239407, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e6599" }, "iddocumento" : 7771429, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e659a" }, "iddocumento" : 10934359, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e659b" }, "iddocumento" : 11766279, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e659c" }, "iddocumento" : 7973479, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e659d" }, "iddocumento" : 11504907, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e659e" }, "iddocumento" : 7771415, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e659f" }, "iddocumento" : 11350163, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a0" }, "iddocumento" : 7771401, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a1" }, "iddocumento" : 10667639, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a2" }, "iddocumento" : 11351711, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a3" }, "iddocumento" : 7771395, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a4" }, "iddocumento" : 9485483, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a5" }, "iddocumento" : 9099941, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a6" }, "iddocumento" : 10083593, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a7" }, "iddocumento" : 7771383, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a8" }, "iddocumento" : 10041379, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65a9" }, "iddocumento" : 7771363, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65aa" }, "iddocumento" : 11709617, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ab" }, "iddocumento" : 8979575, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ac" }, "iddocumento" : 11069303, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ad" }, "iddocumento" : 10276339, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ae" }, "iddocumento" : 9423459, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65af" }, "iddocumento" : 7771367, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b0" }, "iddocumento" : 11539235, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b1" }, "iddocumento" : 10491755, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b2" }, "iddocumento" : 9982483, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b3" }, "iddocumento" : 10032541, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b4" }, "iddocumento" : 10959355, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b5" }, "iddocumento" : 11721055, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b6" }, "iddocumento" : 10451377, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b7" }, "iddocumento" : 11586111, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b8" }, "iddocumento" : 11350097, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65b9" }, "iddocumento" : 7771345, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ba" }, "iddocumento" : 11704371, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65bb" }, "iddocumento" : 10347165, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65bc" }, "iddocumento" : 10685293, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65bd" }, "iddocumento" : 7770817, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65be" }, "iddocumento" : 9167617, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65bf" }, "iddocumento" : 10684245, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c0" }, "iddocumento" : 7771331, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c1" }, "iddocumento" : 8438729, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c2" }, "iddocumento" : 7866287, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c3" }, "iddocumento" : 8449665, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 4, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c4" }, "iddocumento" : 7877605, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 5, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c5" }, "iddocumento" : 11196891, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c6" }, "iddocumento" : 7771313, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c7" }, "iddocumento" : 9408815, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c8" }, "iddocumento" : 7771309, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65c9" }, "iddocumento" : 7771305, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ca" }, "iddocumento" : 11781439, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65cb" }, "iddocumento" : 11389119, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 1, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65cc" }, "iddocumento" : 7771293, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65cd" }, "iddocumento" : 10953559, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 2, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65ce" }, "iddocumento" : 7771289, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 6, "idIndex" : 666, "collection" : "DocType16" }
+{ "_id" : { "$oid" : "4e6885fcb1149bd3c48e65cf" }, "iddocumento" : 9824547, "Pacchetti" : [ 1920, 2111 ], "iddoctype" : 16, "idLeaf" : 3, "idIndex" : 666, "collection" : "DocType16" }

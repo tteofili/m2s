@@ -1,0 +1,9 @@
+{ "_id" : {
+    "$oid" : "4e6885fb0324990d8ce1ade4"
+}, "idLeaf" : 4, "historyTree" : 0, "idIndex" : 1762, "idParent" : 1, "text" : "Libri sociali e contabili", "fd" : -1, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
+{ "_id" : { "$oid" : "4e6885fb0324990d8ce1ade5" }, "idLeaf" : 6, "historyTree" : 0, "idIndex" : 762, "idParent" : 1, "text" : "Classificazione delle Cooperative", "fd" : -1, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
+{ "_id" : { "$oid" : "4e6885fb0324990d8ce1ade6" }, "idLeaf" : 5, "historyTree" : 0, "idIndex" : 762, "idParent" : 1, "text" : "Organi delle Società Cooperative", "fd" : -1, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
+{ "_id" : { "$oid" : "4e6885fb0324990d8ce1ade7" }, "idLeaf" : 4, "historyTree" : 0, "idIndex" : 762, "idParent" : 1, "text" : "Soci", "fd" : -1, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
+{ "_id" : { "$oid" : "4e6885fb0324990d8ce1ade8" }, "idLeaf" : 3, "historyTree" : 0, "idIndex" : 762, "idParent" : 1, "text" : "Costituzione della società cooperativa e conseguenti adempimenti", "fd" : -1, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
+{ "_id" : { "$oid" : "4e6885fb0324990d8ce1ade9" }, "idLeaf" : 2, "historyTree" : 0, "idIndex" : 762, "idParent" : 1, "text" : "Principi generali della società cooperativa", "fd" : -1, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
+{ "_id" : { "$oid" : "4e6885fb0324990d8ce1adea" }, "idLeaf" : 1, "historyTree" : 0, "idIndex" : 762, "idParent" : -1, "text" : "Guida alle Società Cooperative", "fd" : 0, "Fonti" : [], "DocType" : [], "Pacchetti" : [] }
