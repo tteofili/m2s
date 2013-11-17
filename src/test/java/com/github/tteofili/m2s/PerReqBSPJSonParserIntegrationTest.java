@@ -17,19 +17,42 @@
  */
 package com.github.tteofili.m2s;
 
+import org.apache.solr.SolrJettyTestBase;
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
-
-import static org.junit.Assert.fail;
 
 /**
  */
-public class PerReqBSPJSonParserIntegrationTest {
+public class PerReqBSPJSonParserIntegrationTest extends SolrJettyTestBase {
+
+  @Before
+  public void setUp() throws Exception {
+      super.setUp();
+      if (jetty == null) {
+          String solrHome = getClass().getResource("/solr").getFile();
+          String configFile = getClass().getResource("/solr/solr.xml").getFile();
+          jetty = createJetty(solrHome, configFile, "solr");
+      }
+      if (!jetty.isRunning()) {
+        jetty.start();
+      }
+  }
+
+  @After
+  public void tearDown() throws Exception {
+    super.tearDown();
+    if (jetty.isRunning() && !jetty.isStopped()) {
+        jetty.stop();
+    }
+  }
 
   @Test
   public void simpleBSPJsonExecutionTest() throws Exception {
     MongoSolrIndexerJob parserJob = new MongoSolrIndexerJob();
     parserJob.parse(10, getClass().getResource("/MiniTree.json").getFile(), getClass().
             getResource("/MiniTreeDocs.json").getFile(), PerReqBSPJSonParser.class);
+
   }
 
 }

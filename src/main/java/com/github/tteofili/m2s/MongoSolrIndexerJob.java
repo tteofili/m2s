@@ -18,7 +18,12 @@
 package com.github.tteofili.m2s;
 
 import org.apache.hama.HamaConfiguration;
-import org.apache.hama.bsp.*;
+import org.apache.hama.bsp.BSP;
+import org.apache.hama.bsp.BSPJob;
+import org.apache.hama.bsp.BSPJobClient;
+import org.apache.hama.bsp.ClusterStatus;
+import org.apache.hama.bsp.NullInputFormat;
+import org.apache.hama.bsp.NullOutputFormat;
 
 /**
  */
